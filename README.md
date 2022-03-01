@@ -101,8 +101,8 @@ Cuboid Object:
 
 MATLAB Scripts for Data Processing:
 
-Time Taken:
-Path Fidelity EST:
-Path Fidelity Line Following:
-Total Distance: 
-Maximum Displacement: 
+- Time Taken:
+- Path Fidelity EST:
+- Path Fidelity Line Following:
+- Total Distance: 
+- Maximum Displacement: 
