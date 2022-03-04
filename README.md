@@ -23,7 +23,7 @@ Please note the controllers used in these environments and throughout all experi
 
 Original Object:
 
-- Simple Environment:
+- Simple Environment: OriginalObject_SE.ttt
 - Line Following Environment Path 1:
 - Line Following Environment Path 2:
 - Line Following Environment Path 3:
@@ -36,7 +36,7 @@ Original Object:
 
 Medium Sized Object:
 
-- Simple Environment:
+- Simple Environment: MediumObject_SE.ttt
 - Line Following Environment Path 1:
 - Line Following Environment Path 2:
 - Line Following Environment Path 3:
@@ -49,7 +49,7 @@ Medium Sized Object:
 
 Large Sized Object:
 
-- Simple Environment:
+- Simple Environment: LargeObject_SE.ttt
 - Line Following Environment Path 1:
 - Line Following Environment Path 2:
 - Line Following Environment Path 3:
@@ -62,7 +62,7 @@ Large Sized Object:
 
 Cuboid Object:
 
-- Simple Environment:
+- Simple Environment: Cuboid_SE.ttt
 - Line Following Environment Path 1:
 - Line Following Environment Path 2:
 - Line Following Environment Path 3:
@@ -75,7 +75,7 @@ Cuboid Object:
 
 Cylinder Object:
 
-- Simple Environment:
+- Simple Environment: Cylinder_SE.ttt
 - Line Following Environment Path 1:
 - Line Following Environment Path 2:
 - Line Following Environment Path 3:
@@ -86,9 +86,9 @@ Cylinder Object:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
 
-Cuboid Object:
+Sphere Object:
 
-- Simple Environment:
+- Simple Environment: Sphere_SE.ttt
 - Line Following Environment Path 1:
 - Line Following Environment Path 2:
 - Line Following Environment Path 3:
