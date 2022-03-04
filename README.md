@@ -13,11 +13,11 @@ Coppelia Sim Environments:
 
 EST Path Generation:
 
-- Simple Environment Path Solution Generation:
-- Cluttered Environment Path Solution Generation:
-- Randomly Generated Environment Path Solution Generation Path 1:
-- Randomly Generated Environment Path Solution Generation Path 2:
-- Randomly Generated Environment Path Solution Generation Path 3:
+- Simple Environment Path Solution Generation: PathGeneration_SE.ttt
+- Cluttered Environment Path Solution Generation: PathGeneration_CE.ttt
+- Randomly Generated Environment Path Solution Generation Path 1: PathGeneration_RE1.ttt
+- Randomly Generated Environment Path Solution Generation Path 2: PathGeneration_RE2.ttt
+- Randomly Generated Environment Path Solution Generation Path 3: PathGeneration_RE3.ttt
 
 Please note the controllers used in these environments and throughout all experiments in the thesis is the combined system. When comparing fully explicit to fully implicit the combined system is fully weighted one way or another, w=0 makes the system fully explicit and w=1 makes the system fully implicit
 
