@@ -7,7 +7,7 @@ CONTENTS:
 
 Random Environment Generation:
 
-- Python Script Randomly Generated Environments: 
+- Python Script Randomly Generated Environments: genScenes.py
 
 Coppelia Sim Environments:
 
