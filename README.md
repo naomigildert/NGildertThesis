@@ -40,7 +40,7 @@ Original Object:
 - Line Following Environment Path 1: OriginalObject_LF1.ttt
 - Line Following Environment Path 2: OriginalObject_LF2.ttt
 - Line Following Environment Path 3: OriginalObject_LF3.ttt
-- Cluttered Environment:
+- Cluttered Environment: OriginalObject_CE.ttt
 - Randomly Generated Environment Path 1:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
@@ -51,7 +51,7 @@ Medium Sized Object:
 - Line Following Environment Path 1: MediumObject_LF1.ttt
 - Line Following Environment Path 2: MediumObject_LF2.ttt
 - Line Following Environment Path 3: MediumObject_LF3.ttt
-- Cluttered Environment:
+- Cluttered Environment: MediumObject_CE.ttt
 - Randomly Generated Environment Path 1:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
@@ -62,7 +62,7 @@ Large Sized Object:
 - Line Following Environment Path 1: LargeObject_LF1.ttt
 - Line Following Environment Path 2: LargeObject_LF2.ttt
 - Line Following Environment Path 3: LargeObject_LF3.ttt
-- Cluttered Environment:
+- Cluttered Environment: LargeObject_CE.ttt
 - Randomly Generated Environment Path 1:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
@@ -73,7 +73,7 @@ Cuboid Object:
 - Line Following Environment Path 1: Cuboid_LF1.ttt
 - Line Following Environment Path 2: Cuboid_LF2.ttt
 - Line Following Environment Path 3: Cuboid_LF3.ttt
-- Cluttered Environment:
+- Cluttered Environment: Cuboid_CE.ttt
 - Randomly Generated Environment Path 1:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
@@ -84,7 +84,7 @@ Cylinder Object:
 - Line Following Environment Path 1: Cylinder_LF1.ttt
 - Line Following Environment Path 2: Cylinder_LF2.ttt
 - Line Following Environment Path 3: Cylinder_LF3.ttt
-- Cluttered Environment:
+- Cluttered Environment: Cylinder_CE.ttt
 - Randomly Generated Environment Path 1:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
@@ -95,7 +95,7 @@ Sphere Object:
 - Line Following Environment Path 1: Sphere_LF1.ttt
 - Line Following Environment Path 2: Sphere_LF2.ttt
 - Line Following Environment Path 3: Sphere_LF3.ttt
-- Cluttered Environment:
+- Cluttered Environment: Sphere_CE.ttt
 - Randomly Generated Environment Path 1:
 - Randomly Generated Environment Path 2:
 - Randomly Generated Environment Path 3:
