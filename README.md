@@ -19,6 +19,19 @@ EST Path Generation:
 - Randomly Generated Environment Path Solution Generation Path 2: PathGeneration_RE2.ttt
 - Randomly Generated Environment Path Solution Generation Path 3: PathGeneration_RE3.ttt
 
+Path Solution CSV Files:
+
+- Simple Environment Path: SE_path1.csv
+- Line Following Environment Path 1: LF_path1.csv
+- Line Following Environment Path 2: LF_path2.csv
+- Line Following Environment Path 3: LF_path3.csv
+- Cluttered Environment Path 1: CE_path1.csv
+- Cluttered Environment Path 2: CE_path2.csv
+- Cluttered Environment Path 2: CE_path3.csv
+- Randomly Generated Environment Path 1: RE_path1.csv
+- Randomly Generated Environment Path 2: RE_path2.csv
+- Randomly Generated Environment Path 3: RE_path3.csv
+
 Please note the controllers used in these environments and throughout all experiments in the thesis is the combined system. When comparing fully explicit to fully implicit the combined system is fully weighted one way or another, w=0 makes the system fully explicit and w=1 makes the system fully implicit
 
 Original Object:
@@ -94,3 +107,5 @@ MATLAB Scripts for Data Processing:
 - Path Fidelity Line Following:
 - Total Distance: 
 - Maximum Displacement: 
+
+
