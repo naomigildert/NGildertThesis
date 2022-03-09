@@ -102,10 +102,14 @@ Sphere Object:
 
 MATLAB Scripts for Data Processing:
 
-- Time Taken:
-- Path Fidelity EST:
-- Path Fidelity Line Following:
-- Total Distance: 
-- Maximum Displacement: 
+- Time Taken: timetaken.m
+- Path Fidelity EST: pathfidelity_EST.m
+- Path Fidelity Line Following: pathfidelity_LF.m
+- Total Distance: totaldistance.m
+- Maximum Displacement: maxdisplacement.m 
+
+Bash Script for Running Simulations Headlessly:
+
+- ExperimentRunningScript.sh
 
 
