@@ -2,7 +2,7 @@
 
 #Get executable file for CoppeliaSim
 vrep_exe="/home/ng668/CoppeliaSim_Edu_V4_1_0_Ubuntu18_04/coppeliaSim.sh"
-#instantiate arguments: running headlessly, running for 600 seconds, quit after simulation is complete
+#instantiate arguments: running headlessly, running for 800 seconds, quit after simulation is complete
 vrep_args="-h -s800000 -q"
 #get scene file from directory
 scene_file=`dirname $(readlink -f $vrep_exe)`"/scenes/combination/rebuilt/original/rebuild_combined_CE3.ttt"
