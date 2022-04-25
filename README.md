@@ -100,6 +100,15 @@ Sphere Object:
 - Randomly Generated Environment Path 2: Sphere_RE2.ttt
 - Randomly Generated Environment Path 3: Sphere_RE3.ttt
 
+Fault Injection:
+
+Note: only minimal changes to the controllers were made to inject vision sensor and partial motor faults, the following files are provided as reference as to how those minimal changes were made for different environment types
+
+- Partial Motor Fault in a Leader wheel in a Line Following Environment: LeaderPartialMotorFault_LF1.ttt
+- Partial Motor Fault in a Leader wheel in a Path Planning Environment: LeaderPartialMotorFault_RE3.ttt
+- Partial Motor Fault in a Follower wheel (same for all environments): FollowerPartialMotorFault_SE.ttt
+- Vision Sensor Fault: VisionSensorFault_LF1.tt
+
 MATLAB Scripts for Data Processing:
 
 - Time Taken: timetaken.m
